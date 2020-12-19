@@ -1,0 +1,12 @@
+C:\School\CSC-139\Chapter5\Comic Convention\bin\Debug\Comic Convention.exe.config
+C:\School\CSC-139\Chapter5\Comic Convention\bin\Debug\Comic Convention.exe
+C:\School\CSC-139\Chapter5\Comic Convention\bin\Debug\Comic Convention.pdb
+C:\School\CSC-139\Chapter5\Comic Convention\bin\Debug\Comic Convention.xml
+C:\School\CSC-139\Chapter5\Comic Convention\obj\Debug\Comic Convention.vbprojAssemblyReference.cache
+C:\School\CSC-139\Chapter5\Comic Convention\obj\Debug\Comic_Convention.frmMain.resources
+C:\School\CSC-139\Chapter5\Comic Convention\obj\Debug\Comic_Convention.Resources.resources
+C:\School\CSC-139\Chapter5\Comic Convention\obj\Debug\Comic Convention.vbproj.GenerateResource.cache
+C:\School\CSC-139\Chapter5\Comic Convention\obj\Debug\Comic Convention.vbproj.CoreCompileInputs.cache
+C:\School\CSC-139\Chapter5\Comic Convention\obj\Debug\Comic Convention.exe
+C:\School\CSC-139\Chapter5\Comic Convention\obj\Debug\Comic Convention.xml
+C:\School\CSC-139\Chapter5\Comic Convention\obj\Debug\Comic Convention.pdb
